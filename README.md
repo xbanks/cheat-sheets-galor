@@ -3,8 +3,6 @@ Cheat Sheets Galor
 
 Cheat sheets and docs for things that I like working on.
 
-[TOC]
-
 ## Clojure
 ### Emacs
 - [Emacs cheat sheet for beginners](http://sachachua.com/blog/2013/05/how-to-learn-emacs-a-hand-drawn-one-pager-for-beginners)
