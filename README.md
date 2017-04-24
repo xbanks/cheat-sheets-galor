@@ -3,11 +3,13 @@ Cheat Sheets Galor
 
 Cheat sheets and docs for things that I like working on.
 
+## General
+
+- [Learn X in Y Minutes](http://learnxinyminutes.com) Is pretty nice for general language overviews.
+
 ## Clojure
-### Emacs
-- [Emacs cheat sheet for beginners](http://sachachua.com/blog/2013/05/how-to-learn-emacs-a-hand-drawn-one-pager-for-beginners)
+### Editor Stuff
 - [A nice emacs setup for clojure](http://www.braveclojure.com/basic-emacs/#Configuration)
-- [Cheat sheet from above i think](img/emacs.png)
 
 ### Cheat sheets/Learning
 - [Clojure api cheatsheet](http://clojure.org/api/cheatsheet)
@@ -17,8 +19,17 @@ Cheat sheets and docs for things that I like working on.
 - [4Clojure Exercises](http://www.4clojure.com/)
 
 
+## FSharp
+
+- [F# For fun and profit](https://fsharpforfunandprofit.com/)
+
 ## Scala
 [In Progress]
 
 ## Linux/Unix
 [In Progress]
+
+## Editors
+
+- [Vim](https://vim.rtorr.com/)
+- [Emacs](img/emacs.png)
